@@ -1,5 +1,8 @@
 # 💫 About Me:
-![Profile Picture]([https://link-ke-foto-kamu.com/foto.png](https://pin.it/3wfRuRF9j))
+![Deskripsi Gambar](assets/gambar.jpeg)
+
+
+
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
