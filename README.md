@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <img src="https://github.com/IlhamAnomali/IlhamAnomali/blob/main/assets/bg.gif" 
-     style="position: fixed; bottom: 120px; left: 0; width: 100vw; height: auto; margin: 0; padding: 0;" 
+     style="position: fixed; bottom: 120px; left: 0; width: 100vw; height: 250px; margin: 0; padding: 0;" 
      alt="Banner GIF">
 
 
