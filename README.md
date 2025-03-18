@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Deskripsi Gambar](assets/gambar.jpeg)
+![Deskripsi Gambar](assets/gambar.jpeg){width=150 height=150}
 
 
 
