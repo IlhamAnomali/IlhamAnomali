@@ -1,5 +1,8 @@
 # 💫 About Me:
-![Deskripsi Gambar](assets/gambar.jpeg){width=150 height=150}
+<p align="center">
+  <img src="https://link-ke-foto-kamu.com/foto.png" width="150" height="150">
+</p>
+
 
 
 
