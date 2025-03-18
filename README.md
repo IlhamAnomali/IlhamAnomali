@@ -1,7 +1,22 @@
 # 💫 About Me:
-<p align="center">
-  <img src="https://github.com/IlhamAnomali/IlhamAnomali/blob/main/assets/gambar.jpeg" width="300" height="300">
-</p>
+
+<img src="https://github.com/IlhamAnomali/IlhamAnomali/blob/main/assets/bg.gif" 
+     style="position: fixed; bottom: 120px; left: 0; width: 100vw; height: auto; margin: 0; padding: 0;" 
+     alt="Banner GIF">
+
+
+
+
+
+
+
+
+
+
+
+<div style="position: fixed; bottom: 20px; left: 20px;">
+  <img src="https://github.com/IlhamAnomali/IlhamAnomali/blob/main/assets/gambar.jpeg" width="150" height="150">
+</div>
 
 
 # 💻 Tech Stack:
@@ -15,15 +30,22 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamvillain_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hamm_oy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gojosatoru4me@gmail.com) 
 
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=IlhamAnomali&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamAnomali&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <br>
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="GitHub Trophies"/>
+  </a>
+</div>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IlhamAnomali&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
