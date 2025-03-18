@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://github.com/IlhamAnomali/IlhamAnomali/blob/main/assets/gambar.jpeg" width="150" height="150">
+  <img src="https://github.com/IlhamAnomali/IlhamAnomali/blob/main/assets/gambar.jpeg" width="300" height="300">
 </p>
 
 
